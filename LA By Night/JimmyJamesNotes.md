@@ -15,11 +15,19 @@
     - Jason Wright (and 2 other thinbloods)
     - Nolan
   - Location: Inglewood
+### Eva
+  - Kindred
+  - Does that blood magic
+  - Tramere
+  - Seems a bit misty
 ### Crystal Matthews
   - Kindred
-  - Thinks name is Jimmy James
+  - Doesn't like James
+  - She stole my hat
+  - Flesh crafting or something
   - Contacts:
     - Deaths Head (member)
+    - Johnny
 ### Jacob Wilby
   - Unknown
   - Contacts:
@@ -120,6 +128,8 @@
   - Associations:
     - Terriace
     - Rest of gang of 5?
+### Sketchy Blood Guy (Black Market)
+  - Learned about it from the bikers
 
 # Missions:
 ### Find out about Nolan
@@ -137,3 +147,8 @@
     - Marcus
   - Sub Mission:
     - **Get back $20k and good loots**
+### Kill Bobby B
+  - Quest Giver: Nolan Anker
+  - Reward: Unknown
+  - Details:
+    - 
