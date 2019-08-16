@@ -7,6 +7,8 @@
   - Malcavian
   - Contacts:
     - Nolan
+  - Places:
+    - Church (St. Jude)
   - Nice guy
 ### Bradon
   - Blood/Ecstacy Dealer head contact (DO NOT CONTACT)
@@ -18,8 +20,10 @@
 ### Eva
   - Kindred
   - Does that blood magic
-  - Tramere
+  - Tramere - Same house
   - Seems a bit misty
+  - Contacts:
+    - Anthony Worrel
 ### Crystal Matthews
   - Kindred
   - Doesn't like James
@@ -152,3 +156,17 @@
   - Reward: Unknown
   - Details:
     - 
+
+# Knowledge:
+  - Tremer:
+    20 years ago there were 2 houses and 1 clan.
+    - House Tramere: Normal
+      - The old house 
+    - House Goathax: Sabat
+      - Destroyed by founder
+    
+    House Carna:
+      A new house apposing house Tramere no blood bonding and such
+      - Trading magic is common.
+      - Trading outside is frowned upon, but not inforced.
+      - Any member caught by House Tramere are subject to death.
