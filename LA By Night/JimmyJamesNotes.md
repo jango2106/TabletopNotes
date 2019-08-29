@@ -155,7 +155,7 @@
   - Quest Giver: Nolan Anker
   - Reward: Unknown
   - Details:
-    - 
+    - None
 
 # Knowledge:
   - Tremer:
