@@ -10,6 +10,13 @@
   - Places:
     - Church (St. Jude)
   - Nice guy
+### Bobby B (Robert Beasley)
+  - ?
+  - Contacts:
+    -
+  - Places:
+    - Bleed Heart labels in santa susana
+  - Douchebag big brain 
 ### Bradon
   - Blood/Ecstacy Dealer head contact (DO NOT CONTACT)
   - Know face
@@ -134,7 +141,9 @@
     - Rest of gang of 5?
 ### Sketchy Blood Guy (Black Market)
   - Learned about it from the bikers
-
+### Bleeding Heart Labels
+  - Semi Valley
+  - 
 # Missions:
 ### Find out about Nolan
   - Talk to Anthony Worrel about Nolan
