@@ -17,6 +17,8 @@
   * Paladin
   * Obsessed with the goddess
   * Abbrasive 
+  * Drug addicted
+  * Refers to self as Daddy sometimes
 
 ## Important
 * Jezabel Creed
@@ -27,10 +29,12 @@
 * Sfdril 
   * Captain of the fishing ship
 
-
 # Quests
-* Kill the Tillman
-  * a
+### ACTIVE
+### PENDING
+### COMPLETED
+* ~~Kill the Tillman~~
+  * Killed and de-tailed 7 tillman
 
 # Notes:
 ## 2019-09-01

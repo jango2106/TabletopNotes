@@ -163,7 +163,11 @@ Misc
 ### Money
 |Type|Amount|
 |----|------|
+|PP  ||
 |GP  |5|
+|SP  ||
+|CP  ||
+|Gem (25GP)|1|
 
 ## Magic
 |Name| Value|
@@ -211,7 +215,6 @@ Misc
   - Range: 90 feet
   - Components: V, S, M (the petrified eye of a newt)
   - Duration: Concentration, up to 1 hour
-
   - You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to curse a new creature. A remove curse cast on the target ends this spell early. 
   - At Higher Levels: When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
 
@@ -220,9 +223,7 @@ Misc
   - Range: 60 feet
   - Components: V, S
   - Duration: Instantaneous
-
   - You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.
-
   - At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.
 #### Level 2:
 - Blur
