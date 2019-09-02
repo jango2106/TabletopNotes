@@ -1,14 +1,15 @@
 # Johnagain (Name and background changes constantly)
 |Name|Value|
 |-|-|
+|Level|2 STILL NEED TO LEVEL UP|
 |Class:|Warlock|
 |Race:|Undead Revenant|
 |Alignment:|Neutral|
 |Background:|Amnesiac|
 |Proficiency Bonus:|+2|
 |Hit Die:|1d8|
-|Health Max:|10|
-|Health Current:|9|
+|Health Max:|20|
+|Health Current:|19|
 |AC|11 + 1 = **12**|
 |Init Mod|+1|
 
@@ -175,8 +176,8 @@ Misc
 |Current spell save:|8 + 2 + 3 = **13**|
 |Spell attack modifier:| 2 + 3 = **5**|
 |Spell Level:| 1st|
-|Spell Slots: |**1**|
-|Known Spells: |**2**|
+|Spell Slots: |**2**|
+|Known Spells: |**3**|
 
 ### Cantrips:
 - Green-Flame Blade
