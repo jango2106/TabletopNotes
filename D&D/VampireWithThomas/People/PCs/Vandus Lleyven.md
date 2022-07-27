@@ -1,4 +1,4 @@
-# [Vandus Lleyven](/TabletopNotes/D%26D/VampireWithThomas/People/PCs/Vandus%20Lleyven.md)
+# [Vandus Lleyven](/D%26D/VampireWithThomas/People/PCs/Vandus%20Lleyven.md)
 
 Played by: Chris
 

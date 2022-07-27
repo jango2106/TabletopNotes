@@ -1,4 +1,4 @@
-# [Island of Lo](/TabletopNotes/D%26D/VampireWithThomas/Places/Lands/Island%20of%20Lo.md)
+# [Island of Lo](/D%26D/VampireWithThomas/Places/Lands/Island%20of%20Lo.md)
 
 ## Location Info:
 
@@ -6,4 +6,4 @@
 
 ## Cities:
 
-- [Noril](/TabletopNotes/D%26D/VampireWithThomas/Places/Towns/Noril.md)
+- [Noril](/D%26D/VampireWithThomas/Places/Towns/Noril.md)

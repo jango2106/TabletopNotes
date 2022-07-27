@@ -1,4 +1,4 @@
-# [Gorin Globsnatcher](/TabletopNotes/D%26D/VampireWithThomas/People/PCs/Gorin%20Globsnatcher.md)
+# [Gorin Globsnatcher](/D%26D/VampireWithThomas/People/PCs/Gorin%20Globsnatcher.md)
 
 Played by: Alex
 
@@ -16,5 +16,5 @@ Played by: Alex
 ## Info
 
 1. Has something kept secret in his backpack. Dont know what it is
-2. Is on a quest to the [Barming Mountain Range](/TabletopNotes/D%26D/VampireWithThomas/Places/Barming%20Mountain%20Range.md).
+2. Is on a quest to the [Barming Mountain Range](/D%26D/VampireWithThomas/Places/Barming%20Mountain%20Range.md).
    - TBD

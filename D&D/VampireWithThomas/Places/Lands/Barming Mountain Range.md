@@ -1,8 +1,8 @@
-# [Barming Mountain Range](/TabletopNotes/D%26D/VampireWithThomas/Places/Lands/Barming%20Mountain%20Range.md)
+# [Barming Mountain Range](/D%26D/VampireWithThomas/Places/Lands/Barming%20Mountain%20Range.md)
 
 ## Location
 
-- North of the [Freystals Empire](/TabletopNotes/D%26D/VampireWithThomas/Places/Lands/Freystals%20Empire.md)
+- North of the [Freystals Empire](/D%26D/VampireWithThomas/Places/Lands/Freystals%20Empire.md)
 
 ## History
 

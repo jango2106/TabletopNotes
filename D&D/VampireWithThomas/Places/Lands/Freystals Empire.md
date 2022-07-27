@@ -1,13 +1,13 @@
-# [Freystals Empire](/TabletopNotes/D%26D/VampireWithThomas/Places/Lands/Freystals%20Empire.md)
+# [Freystals Empire](/D%26D/VampireWithThomas/Places/Lands/Freystals%20Empire.md)
 
 ## Location
 
-- South of [Barming Mountain Range](/TabletopNotes/D%26D/VampireWithThomas/Places/Lands/Barming%20Mountain%20Range.md)
+- South of [Barming Mountain Range](/D%26D/VampireWithThomas/Places/Lands/Barming%20Mountain%20Range.md)
 - Largest landmass in the known world
 
 ## Cities
 
-- [Orstwell](/TabletopNotes/D%26D/VampireWithThomas/Places/Towns/Orestwell.md)
+- [Orstwell](/D%26D/VampireWithThomas/Places/Towns/Orestwell.md)
 
 ## Climate
 
