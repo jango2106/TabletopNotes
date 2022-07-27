@@ -16,5 +16,5 @@ Played by: Alex
 ## Info
 
 1. Has something kept secret in his backpack. Dont know what it is
-2. Is on a quest to the [Barming Mountain Range](/D%26D/VampireWithThomas/Places/Barming%20Mountain%20Range.md).
+2. Is on a quest to the [Barming Mountain Range](/D%26D/VampireWithThomas/Places/Lands/Barming%20Mountain%20Range.md).
    - TBD
