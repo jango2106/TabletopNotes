@@ -12,4 +12,4 @@
 
 ### Theme:
 
-- Vampires and shit and evil stuff and shit
+- Vampires and evil stuff
